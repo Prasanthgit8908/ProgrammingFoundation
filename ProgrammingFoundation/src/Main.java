@@ -47,6 +47,7 @@ public class Main {
 			System.out.println("Enter the options based on choice" +
 					" \n 1. Add \n 2. sub  \n 3. div \n 4. mul \n 5. exit");
 		int choice = scanner.nextInt();
+	
 		
 		//int choice = 30;
 
